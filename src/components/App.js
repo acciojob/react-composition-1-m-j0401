@@ -4,19 +4,7 @@ import './../styles/App.css';
 import Tabs from "./Tabs"
 
 const posts = [
-  {
-    title: "Tab 1",
-    content: "Tab 1"
-  },
-  {
-    title: "Tab 2",
-    content: "Tab 2"
-  },
-  {
-    title: "Tab 3",
-    content: "Tab 3."
-  }
- 
+ "Tab 1","Tab 2","Tab 3"
 ];
 
 

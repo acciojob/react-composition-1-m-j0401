@@ -15,10 +15,10 @@ const Tabs=({data})=>{
         <div>
             <ul>
         {    data.map((val,ind)=>
-                <li  id={`list${ind}`}    key={ind} onClick={handleClick}>{val.title}</li>)
+                <li  id={`list${ind}`}    key={ind} onClick={handleClick}>{val}</li>)
         }
         </ul>
-        <p>This is the content for {cont.content}</p>
+        <p>This is the content for {cont}.</p>
         </div>
     )
 
