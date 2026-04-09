@@ -5,25 +5,18 @@ import Tabs from "./Tabs"
 
 const posts = [
   {
-    title: "Welcome",
-    content: "This is the welcome post of our website."
+    title: "Tab 1",
+    content: "Tab 1"
   },
   {
-    title: "About Us",
-    content: "We provide high quality tutorials and examples."
+    title: "Tab 2",
+    content: "Tab 2"
   },
   {
-    title: "Services",
-    content: "We offer web development and design services."
-  },
-  {
-    title: "Contact",
-    content: "You can reach us via email or phone."
-  },
-  {
-    title: "Blog",
-    content: "Read our latest articles and updates here."
+    title: "Tab 3",
+    content: "Tab 3."
   }
+ 
 ];
 
 
